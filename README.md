@@ -1,2 +1,2 @@
 # logion-crowdloan-reward
-Logion Crowd loan Reward NFT's 
+Logion Crowd Loan Reward NFT's 
