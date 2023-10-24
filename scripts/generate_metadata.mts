@@ -4,7 +4,7 @@ import { exit } from "process";
 
 const TOTAL = 250;
 const NONCE = "";
-const COLLECTION_LOC_ID = "229969248536116444493778523013240641596";
+const COLLECTION_LOC_ID = "17825491029441914880487572037461113128";
 const CERTIFICATE_HOST = "dev-certificate.logion.network";
 
 async function main() {

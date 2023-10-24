@@ -1,0 +1,24 @@
+{
+  "name": "LogionCrowdLoan#227",
+  "description": "The Logion Crowd Loan Reward NFT, created by Seneca and certified by Logion",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Seneca"
+    },
+    {
+      "trait_type": "LOC ID",
+      "value": "17825491029441914880487572037461113128"
+    },
+    {
+      "trait_type": "Item ID",
+      "value": "0xd484d5d9abc278f55cf37c069dbc6e9b07f3dc7418a8f82d22cba1e664ae721a"
+    },
+    {
+      "trait_type": "Certificate URL",
+      "value": "https://dev-certificate.logion.network/public/certificate/17825491029441914880487572037461113128/0xd484d5d9abc278f55cf37c069dbc6e9b07f3dc7418a8f82d22cba1e664ae721a"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/logion-network/logion-crowdloan-reward/main/thumbnails/0.jpg",
+  "external_url": "https://dev-certificate.logion.network/public/certificate/17825491029441914880487572037461113128/0xd484d5d9abc278f55cf37c069dbc6e9b07f3dc7418a8f82d22cba1e664ae721a"
+}
