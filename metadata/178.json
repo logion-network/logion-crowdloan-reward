@@ -1,14 +1,26 @@
 {
   "name": "LogionCrowdLoan#178",
-  "description": "The Logion Crowd Loan Reward NFT, created by Seneca and certified by Logion",
+  "description": "The Logion Crowd Loan Reward NFT, designed by Seneca, created by W3 ART and certified by Logion\n.This NFT has been offered to the first 250 participants of Auction 51 and 52.",
   "attributes": [
     {
       "trait_type": "Artist",
       "value": "Seneca"
     },
     {
+      "trait_type": "Shirt",
+      "value": "Logion T-Shirt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Polkadot Baseball Cap"
+    },
+    {
+      "trait_type": "Event",
+      "value": "Auctions 51-52"
+    },
+    {
       "trait_type": "LOC ID",
-      "value": "17825491029441914880487572037461113128"
+      "value": "242260142055555942514186502548709472473"
     },
     {
       "trait_type": "Item ID",
@@ -16,9 +28,9 @@
     },
     {
       "trait_type": "Certificate URL",
-      "value": "https://dev-certificate.logion.network/public/certificate/17825491029441914880487572037461113128/0x8bd20ba093b4148ce0cb6420304e49d915dde4e002fcd48cfb9c4b3b78ac8b82"
+      "value": "https://certificate.logion.network/public/certificate/242260142055555942514186502548709472473/0x8bd20ba093b4148ce0cb6420304e49d915dde4e002fcd48cfb9c4b3b78ac8b82"
     }
   ],
-  "image": "https://raw.githubusercontent.com/logion-network/logion-crowdloan-reward/main/thumbnails/0.jpg",
-  "external_url": "https://dev-certificate.logion.network/public/certificate/17825491029441914880487572037461113128/0x8bd20ba093b4148ce0cb6420304e49d915dde4e002fcd48cfb9c4b3b78ac8b82"
+  "image": "https://raw.githubusercontent.com/logion-network/logion-crowdloan-reward/main/thumbnails/thumbnail.png",
+  "external_url": "https://certificate.logion.network/public/certificate/242260142055555942514186502548709472473/0x8bd20ba093b4148ce0cb6420304e49d915dde4e002fcd48cfb9c4b3b78ac8b82"
 }

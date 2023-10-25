@@ -4,8 +4,8 @@ import { exit } from "process";
 
 const TOTAL = 250;
 const NONCE = "";
-const COLLECTION_LOC_ID = "17825491029441914880487572037461113128";
-const CERTIFICATE_HOST = "dev-certificate.logion.network";
+const COLLECTION_LOC_ID = "242260142055555942514186502548709472473";
+const CERTIFICATE_HOST = "certificate.logion.network";
 
 async function main() {
     const inMetadataFolder = "metadata-input";
