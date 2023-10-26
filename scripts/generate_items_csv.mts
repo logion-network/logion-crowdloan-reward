@@ -4,9 +4,9 @@ import * as csv from "fast-csv";
 import { readFile } from "fs/promises";
 import { generatePSP34TokenItemId } from "@logion/client";
 
-const TOTAL = 250;
+const TOTAL = 233 + 6;
 const NONCE = "";
-const CONTRACT = "aeBMdnFkpLHkwBKn1ej4gMVdqspDA9jZMboQhLGs4Ve5Rxx";
+const CONTRACT = "YjZbHDyYKMGWpYd3Hs7FrKput7dCznsEeYVipduLBTrRek3";
 
 async function main() {
   const metadataFolder = "metadata";
@@ -26,7 +26,7 @@ async function main() {
     csvStream.write({
       ["ID"]: itemId,
       ["DESCRIPTION"]: metadata.description,
-      ["TOKEN TYPE"]: "astar_shibuya_psp34",
+      ["TOKEN TYPE"]: "astar_psp34",
       ["TOKEN ID"]: `{"contract":"${CONTRACT}","id":{"U64":${i}}}`,
       ["TOKEN ISSUANCE"]: 1,
       ["TERMS_AND_CONDITIONS TYPE"]: "logion_classification",
