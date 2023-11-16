@@ -2,7 +2,7 @@ import { generatePSP34TokenItemId } from "@logion/client";
 import { mkdir, writeFile, readFile } from "fs/promises";
 import { exit } from "process";
 
-const TOTAL = 250;
+const TOTAL = 240;
 const NONCE = "";
 const COLLECTION_LOC_ID = "242260142055555942514186502548709472473";
 const CERTIFICATE_HOST = "certificate.logion.network";

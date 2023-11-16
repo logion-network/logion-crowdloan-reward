@@ -4,7 +4,7 @@ import * as csv from "fast-csv";
 import { readFile } from "fs/promises";
 import { generatePSP34TokenItemId } from "@logion/client";
 
-const TOTAL = 233 + 6;
+const TOTAL = 240;
 const NONCE = "";
 const CONTRACT = "YjZbHDyYKMGWpYd3Hs7FrKput7dCznsEeYVipduLBTrRek3";
 
